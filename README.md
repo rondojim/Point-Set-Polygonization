@@ -20,9 +20,9 @@ $ ./to_polygon -i <input file> -o <output file>
 ```
 
 ## Authors
-* Kyriakopoulos Dimitrios<sup>*</sup>  
-* Poulis Angelos<sup>*</sup>  
-* Rontogiannis Dimitrios<sup>*</sup>
+* [Kyriakopoulos Dimitrios](https://github.com/dimitrskpl)<sup>*</sup>  
+* [Poulis Angelos](https://github.com/angelosps)<sup>*</sup>  
+* [Rontogiannis Dimitrios](https://github.com/rondojim)<sup>*</sup>
 
 
 <sup>*</sup>_Equal contribution._
