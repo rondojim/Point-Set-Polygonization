@@ -2,6 +2,11 @@
 
 **Problem:** Polygonization of a point-set **S** with **n** points in $\mathbf{R}^2$, and calculation of the area of the polygon (+ [Pick's theorem](https://en.wikipedia.org/wiki/Pick%27s_theorem)).
 
+The implemented algorithms are based on the following papers:  
+[Incremental](https://oa.upm.es/19287/1/INVE_MEM_2011_121744.pdf)  
+[Based on Convex Hull](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230342)  
+[Onion](https://www.sciencedirect.com/science/article/abs/pii/002001909500193X)  
+
 A detailed report of this project it is provided in the `Report.pdf` file.
 
 ## Usage
